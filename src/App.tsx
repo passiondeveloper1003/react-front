@@ -1,4 +1,3 @@
-// This is react project
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
